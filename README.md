@@ -19,5 +19,5 @@ I enjoy coding, playing chess end learning new stuffs.
 ### Examples of work
 ---
 ##### - [Helper.uz](http://helper.question.uz)
-##### -[Object Detection](http://object-detection.question.uz/)
+##### - [Object Detection](http://object-detection.question.uz/)
 
