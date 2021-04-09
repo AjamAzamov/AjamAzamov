@@ -4,5 +4,5 @@ I am Ajam from Uzbekistan and a graduate student of Tashkent University of Infor
 I enjoy coding, playing chess end learning new stuffs.
 
 
-##Skils and Experience
-#* Flask
+## Skils and Experience
+# Flask
