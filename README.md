@@ -7,5 +7,9 @@ I enjoy coding, playing chess end learning new stuffs.
 
 
 ### Skils and Experience
+- Python
 - Flask
-- 
+- Nodejs
+- Open-CV
+- Keras
+- Tensorflow
