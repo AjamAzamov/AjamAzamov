@@ -10,7 +10,7 @@ I enjoy coding, playing chess end learning new stuffs.
 ---
 - Python
 - Flask
-- Nodejs
+- Django
 - Open-CV
 - Keras
 - Tensorflow
