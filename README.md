@@ -20,4 +20,5 @@ I enjoy coding, playing chess end learning new stuffs.
 ---
 ##### - [Helper.uz](http://helper.question.uz)
 ##### - [Object Detection](http://object-detection.question.uz/)
+##### - [mediumish.dinamic.uz](http://mediumish.dinamic.uz/)
 
