@@ -20,7 +20,7 @@ I enjoy coding, playing chess end learning new stuff.
 
 ### Examples of work
 ---
-##### - [mediumish.dinamic.uz](http://ajam.pythonanywhere.com/)
+##### - [Mediumish.uz](http://ajam.pythonanywhere.com/)
 ##### - [Helper.uz](http://helper.question.uz)
 ##### - [Object Detection](http://object-detection.question.uz/)
 
