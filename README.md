@@ -10,18 +10,13 @@ I enjoy coding, playing chess end learning new stuff.
 ---
 - Python
 - C++
-- Java Script
 - HTML/CSS
 - Django
 - Open-CV
 - Keras
 - Tensorflow
+- PyTorch
 
 
-### Examples of work
----
-##### - [Mediumish.uz](http://ajam.pythonanywhere.com/)
-##### - [Helper.uz](http://helper.question.uz)
-##### - [Object Detection](http://object-detection.question.uz/)
 
 
